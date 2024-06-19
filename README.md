@@ -9,8 +9,6 @@ can help to solve.
 The web application has been developed by Magdalena Kortas (backend - Deep Learning, Python and Flask) and Aleksandra
 Zachariasz (frontend - Flask, CSS, JS, HTML5 and graphic design).
 
-Are you curious about how the AI solution has been built? Check
-our **[Medium](https://towardsdatascience.com/sound-based-bird-classification-965d0ecacb2b)** article.
 
 ## Data download
 
